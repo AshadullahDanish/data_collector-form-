@@ -1,5 +1,3 @@
-Absolutely, let's add some flair to your GitHub README file:
-
 ```markdown
 <div align="center">
   <img src="your-logo.png" alt="Job Website Form Logo" width="150" height="150">
@@ -74,5 +72,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Happy coding! 🚀✨
 ```
-
-Feel free to replace "your-username" with your actual GitHub username, and don't forget to add your project logo image URL in place of "your-logo.png". Adjust the styling and content as per your preferences.
