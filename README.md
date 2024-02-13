@@ -1,15 +1,3 @@
-```markdown
-<div align="center">
-  <img src="your-logo.png" alt="Job Website Form Logo" width="150" height="150">
-
-# Job Website Form
-
-[![GitHub issues](https://img.shields.io/github/issues/AshadullahDanish/data_collector-form)](https://github.com/AshadullahDanish/data_collector-form/issues)
-[![GitHub stars](https://img.shields.io/github/stars/AshadullahDanish/data_collector-form)](https://github.com/AshadullahDanish/data_collector-form/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/AshadullahDanish/data_collector-form)](https://github.com/AshadullahDanish/data_collector-form/network)
-
-</div>
-
 ## 🚀 Welcome to Job Website Form!
 
 Job Website Form is a fantastic web application built with Flask, allowing users to effortlessly submit job details through a sleek and intuitive form. The submitted data is seamlessly stored in a Google Sheet using the power of the Google Sheets API.
