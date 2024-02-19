@@ -27,6 +27,11 @@ Job Website Form is a fantastic web application built with Flask, allowing users
    ```
 
    Open [https://data-collector-znb9.onrender.com/) in your browser to experience the magic.
+## Screenshots 📸
+![image](https://github.com/AshadullahDanish/data_collector-form-/assets/77275155/079da2be-b3d8-4b24-9235-88293e856f71)
+
+![image](https://github.com/AshadullahDanish/data_collector-form-/assets/77275155/762d91a1-f0ea-4f0e-90f1-a9a310e45e1a)
+
 
 ## ✨ Features
 
