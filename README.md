@@ -1,4 +1,4 @@
-## 🚀 Welcome to DataScribe - Simplifying Data Collection UI/UX!
+## 🚀 Welcome to DataScribe - Simplifying Data Collection
 
 Job Website Form is a fantastic web application built with Flask, allowing users to effortlessly submit job details through a sleek and intuitive form. The submitted data is seamlessly stored in a Google Sheet using the power of the Google Cloud's API.
 
